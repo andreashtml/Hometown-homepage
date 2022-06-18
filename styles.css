@@ -32,7 +32,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("images/soriamoria.jpg");
+    background-image: url("soriamoria.jpg");
     background-size: cover;
     margin: 0 auto;
     transition: 1.5s;
@@ -40,7 +40,7 @@ main {
 }
 
 #hero:hover {
-    background-image: url("images/eventyrnatt-vinterparken.jpg");
+    background-image: url("eventyrnatt-vinterparken.jpg");
     
   
 }
